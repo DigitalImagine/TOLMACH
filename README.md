@@ -1,8 +1,8 @@
 # 🗺️ [К А Р Т А](/ОПС/КРТ.md)
 
 <div align="center">
-  <a href="/ОПС/ИЗБРЖН/ТОЛМАЧ.png" style="display: inline-block;">
-	<img src="/ОПС/ИЗБРЖН/ТОЛМАЧ.png" alt="ТОЛМАЧ" width="60%" style="max-height: 250px; object-fit: contain; margin: 0 1%;"/>
+  <a href="ОПС/ИЗБРЖН/ТОЛМАЧ.png" style="display: inline-block;">
+	<img src="ОПС/ИЗБРЖН/ТОЛМАЧ.png" alt="ТОЛМАЧ" width="60%" style="max-height: 250px; object-fit: contain; margin: 0 1%;"/>
   </a>
 
   <h3>Самобытный Языковой Переводчик Новой Инженерной Эпохи</h3>
